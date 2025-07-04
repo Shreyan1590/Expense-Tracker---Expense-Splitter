@@ -7,7 +7,7 @@
   
   # Node.js version
   [build.environment]
-    NODE_VERSION = "18"
+    NODE_VERSION = "18.20.2"
 
 # Redirect all routes to index.html for SPA routing
 [[redirects]]

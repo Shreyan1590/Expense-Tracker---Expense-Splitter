@@ -16,6 +16,9 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.20.1"
   },
+  "engines": {
+    "node": "18.20.2"
+  },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
     "@types/react": "^18.3.5",
